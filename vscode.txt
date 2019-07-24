@@ -1,0 +1,2 @@
+git config --global core.editor "code --wait"
+//code es la palabra clave para usar vscode como editor predeterminado de git
